@@ -7,12 +7,12 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{D64046BF-7F33-4935-B531-F633565B19A3}</ProjectGuid>
+    <ProjectGuid>{AA0903A1-492C-4322-9F82-C1EC38D8E73E}</ProjectGuid>
     <ProjectTypeGuids>{563295b5-8906-4a76-be2d-ff8e711c1204};{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>cmss</RootNamespace>
-    <AssemblyName>cmss</AssemblyName>
+    <RootNamespace>ss</RootNamespace>
+    <AssemblyName>ss</AssemblyName>
     <StartPageUrl>Form1.wgx</StartPageUrl>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <UseIISExpress>true</UseIISExpress>
@@ -63,7 +63,6 @@
     <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="System.Web.Extensions" />
-    <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Drawing" />
     <Reference Include="System.Web" />
@@ -120,9 +119,9 @@
         <WebProjectProperties>
           <UseIIS>True</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
-          <DevelopmentServerPort>37603</DevelopmentServerPort>
+          <DevelopmentServerPort>46228</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost:37603/</IISUrl>
+          <IISUrl>http://localhost:46228/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>

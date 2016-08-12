@@ -1,4 +1,4 @@
-namespace cmss
+namespace ss
 {
     partial class Form1
     {
@@ -28,28 +28,16 @@ namespace cmss
         /// </summary>
         private void InitializeComponent()
         {
-            this.button1 = new Gizmox.WebGUI.Forms.Button();
             this.SuspendLayout();
-            // 
-            // button1
-            // 
-            this.button1.Location = new System.Drawing.Point(294, 121);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 0;
-            this.button1.Text = "button1";
             // 
             // Form1
             // 
-            this.Controls.Add(this.button1);
-            this.Size = new System.Drawing.Size(472, 268);
+            this.Size = new System.Drawing.Size(668, 305);
             this.Text = "Form1";
             this.ResumeLayout(false);
 
         }
 
         #endregion
-
-        private Gizmox.WebGUI.Forms.Button button1;
     }
 }
